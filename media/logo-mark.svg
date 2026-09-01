@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="NodeFloor">
+  <title>NodeFloor</title>
+  <!-- The square mark.
+
+       The previous version drew the letters M and D — the initials of the
+       project this one was forked from — inside a maroon box, while its title
+       already said "NodeFloor". The rename relabelled the file and left the
+       artwork alone, so the old owner's initials were still sitting in the site
+       header.
+
+       This is the same motif as logo.svg (one hub, four satellites, wires
+       between), simplified for the sizes a mark is actually used at, and in the
+       same three colours: brand amber, near-white core, ink. No text, so no
+       font to be missing and nothing to re-translate. -->
+  <rect width="256" height="256" fill="#FFD165"/>
+  <rect x="10" y="10" width="236" height="236" fill="none" stroke="#1A1320" stroke-width="12"/>
+
+  <g stroke="#1A1320" stroke-width="14" stroke-linecap="round">
+    <line x1="128" y1="128" x2="128" y2="62"/>
+    <line x1="128" y1="128" x2="128" y2="194"/>
+    <line x1="128" y1="128" x2="62"  y2="128"/>
+    <line x1="128" y1="128" x2="194" y2="128"/>
+  </g>
+
+  <g fill="#1A1320">
+    <circle cx="128" cy="62"  r="20"/>
+    <circle cx="128" cy="194" r="20"/>
+    <circle cx="62"  cy="128" r="20"/>
+    <circle cx="194" cy="128" r="20"/>
+  </g>
+
+  <circle cx="128" cy="128" r="30" fill="#FFFDF5" stroke="#1A1320" stroke-width="12"/>
+</svg>

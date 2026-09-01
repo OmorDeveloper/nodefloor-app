@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="812" height="160" viewBox="0 0 812 160" role="img" aria-label="NodeFloor">
+  <title>NodeFloor</title>
+  <!-- The wordmark: the name, set as type, next to the mark.
+
+       Letterforms are drawn as PATHS rather than <text>. An SVG loaded through
+       `<img src>` cannot fetch a webfont, so a <text> wordmark falls back to
+       whatever the machine happens to have — which is how the same logo ends up
+       looking different on every visitor's screen, and why the old mark hedged
+       with "Impact, Anton, Arial Narrow, sans-serif". Paths render identically
+       everywhere and need nothing loaded.
+
+       Colours are the app's: amber #FFD165, ink #1A1320, core #FFFDF5. -->
+
+  <!-- mark -->
+  <g>
+    <rect x="8" y="16" width="128" height="128" fill="#FFD165"/>
+    <rect x="14" y="22" width="116" height="116" fill="none" stroke="#1A1320" stroke-width="7"/>
+    <g stroke="#1A1320" stroke-width="8" stroke-linecap="round">
+      <line x1="72" y1="80" x2="72" y2="47"/>
+      <line x1="72" y1="80" x2="72" y2="113"/>
+      <line x1="72" y1="80" x2="39" y2="80"/>
+      <line x1="72" y1="80" x2="105" y2="80"/>
+    </g>
+    <g fill="#1A1320">
+      <circle cx="72" cy="47"  r="11"/>
+      <circle cx="72" cy="113" r="11"/>
+      <circle cx="39" cy="80"  r="11"/>
+      <circle cx="105" cy="80" r="11"/>
+    </g>
+    <circle cx="72" cy="80" r="16" fill="#FFFDF5" stroke="#1A1320" stroke-width="7"/>
+  </g>
+
+  <!-- NODEFLOOR, as paths. A geometric grotesque: 74px cap height, 12px stems,
+       drawn on a shared baseline at y=117. -->
+  <g fill="#1A1320">
+    <!-- N -->
+    <path d="M168 43h14l30 46V43h14v74h-14l-30-46v46h-14z"/>
+    <!-- O -->
+    <path d="M270 41c21 0 35 16 35 39s-14 39-35 39-35-16-35-39 14-39 35-39zm0 14c-12 0-20 10-20 25s8 25 20 25 20-10 20-25-8-25-20-25z"/>
+    <!-- D -->
+    <path d="M317 43h27c22 0 36 15 36 37s-14 37-36 37h-27zm15 14v46h11c13 0 21-9 21-23s-8-23-21-23z"/>
+    <!-- E -->
+    <path d="M392 43h48v14h-33v16h30v14h-30v16h34v14h-49z"/>
+    <!-- F -->
+    <path d="M458 43h47v14h-32v18h29v14h-29v28h-15z"/>
+    <!-- L -->
+    <path d="M518 43h15v60h33v14h-48z"/>
+    <!-- O -->
+    <path d="M611 41c21 0 35 16 35 39s-14 39-35 39-35-16-35-39 14-39 35-39zm0 14c-12 0-20 10-20 25s8 25 20 25 20-10 20-25-8-25-20-25z"/>
+    <!-- O -->
+    <path d="M690 41c21 0 35 16 35 39s-14 39-35 39-35-16-35-39 14-39 35-39zm0 14c-12 0-20 10-20 25s8 25 20 25 20-10 20-25-8-25-20-25z"/>
+    <!-- R -->
+    <path d="M735 43h29c17 0 27 10 27 25 0 11-5 19-14 22l16 27h-17l-14-24h-12v24h-15zm15 14v22h13c8 0 13-4 13-11s-5-11-13-11z"/>
+  </g>
+</svg>

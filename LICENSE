@@ -1,0 +1,67 @@
+NodeFloor — Proprietary Software Licence
+Copyright (c) 2026 Omor. All rights reserved.
+
+NodeFloor is derived from an earlier MIT-licensed project by Chaitanya Giri
+and its contributors. That upstream copyright notice and MIT permission
+notice are reproduced in THIRD-PARTY-LICENSES.md, as the MIT licence
+requires, and they continue to apply to the upstream portions of this work.
+The terms below are our own and apply to this distribution as a whole.
+
+1. OWNERSHIP
+   NodeFloor (the "Software"), including its source code, designs, assets and
+   documentation, is the exclusive property of the copyright holder. It is
+   licensed, not sold. No title or ownership transfers to you.
+
+2. GRANT
+   Subject to your compliance with this licence, you are granted a personal,
+   non-exclusive, non-transferable, revocable licence to install and run the
+   distributed binary of the Software for your own use.
+
+3. RESTRICTIONS
+   Except where a mandatory law grants you a right that cannot be waived, you
+   may not:
+     (a) copy, redistribute, sublicense, sell, rent, lease or lend the Software;
+     (b) reverse engineer, decompile or disassemble it, or attempt to derive its
+         source code;
+     (c) modify it or create derivative works;
+     (d) remove or alter any copyright, trademark or other proprietary notice;
+     (e) use it to build a competing product.
+
+4. THIRD-PARTY COMPONENTS
+   The Software is distributed with third-party components that remain under
+   their own licences, which take precedence over this one for those components.
+   Notably it bundles Hermes Agent (Copyright (c) 2025 Nous Research), which is
+   MIT licensed and whose notice must be preserved. See THIRD-PARTY-LICENSES.md
+   for the full list and the notices required with it.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+   CONTRACT, TORT OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE
+   OR ITS USE.
+
+7. TERMINATION
+   This licence terminates automatically if you breach it. On termination you
+   must stop using the Software and destroy all copies in your possession.
+
+--------------------------------------------------------------------------------
+NOTE ON EARLIER RELEASES AND ON THE UPSTREAM PROJECT
+
+Versions of this project published under the MIT licence remain under that
+licence for the copies already distributed. An MIT grant, once given, cannot be
+withdrawn for those copies. This licence governs THIS and future versions only.
+
+The MIT licence permits building on the upstream work and distributing the
+result under different terms, which is what this licence does. It also requires
+that the upstream copyright and permission notice travel with every copy, which
+is why THIRD-PARTY-LICENSES.md ships inside the installer rather than living
+only in a repository. Removing that notice would breach the licence that makes
+this distribution lawful in the first place.
+
+This is not legal advice. Have a lawyer review these terms before you rely on
+them commercially.
