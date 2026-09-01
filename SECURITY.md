@@ -21,7 +21,7 @@ This is an early prototype. Security fixes target the `main` branch only.
 Please **do not** open a public issue for security problems.
 
 - Use GitHub's **private vulnerability reporting**: the *Security → Report a
-  vulnerability* tab on https://github.com/OmorDeveloper/nodefloor, **or**
+  vulnerability* tab on https://github.com/OmorDeveloper/nodefloor-app, **or**
 - Email **omor.developer@gmail.com** with a description, reproduction steps, and
   impact.
 
